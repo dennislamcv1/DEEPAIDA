@@ -1,0 +1,101 @@
+User ID,Order Number,Time of Purchase,Margherita Pizza,Pepperoni Pizza,BBQ Chicken Pizza,Spaghetti Carbonara,Garlic Bread,Chicken Wings,Cheesecake,Tiramisu,Total Amount,Payment Method,Delivery Address,Delivery Instructions,Special Requests
+8024,2184,2024-04-02,0,0,0,0,0,4,0,0,26,PayPal,"948 Daniel Turnpike Apt. 114, Chicago, IL, 61114",Text upon arrival for gate code: 5678,
+7068,2155,2024-04-03,0,3,1,3,1,4,0,0,125.05,Cash,"1318 Brown Port Apt. 390, Chicago, IL, 62364",,
+9614,2220,2024-04-03,0,0,0,1,0,0,4,3,55.9,PayPal,"656 Adam Highway Apt. 373, Chicago, IL, 61277","Apartment number is 304, buzz for entry",
+5511,2185,2024-04-03,4,4,0,4,4,0,3,2,205.85,Credit Card,"2646 Amanda Passage, Chicago, IL, 62338",,well-done crust
+4117,2160,2024-04-03,3,0,4,4,0,0,3,0,167.25,Credit Card,"955 Wheeler Prairie, Chicago, IL, 61869","Please call upon arrival, gate code: 4567",
+7121,2237,2024-04-03,3,0,2,0,0,0,0,2,81.2,PayPal,"93056 Lopez Inlet Apt. 307, Chicago, IL, 62245","Call upon arrival, gate code: 3456",
+4599,2187,2024-04-04,0,0,4,0,1,0,0,0,67.4,Credit Card,"0586 Howell Cape, Chicago, IL, 62159",Ring the bell and wait for response,
+8545,2227,2024-04-04,0,0,0,3,0,2,0,0,49.45,Cash,"3195 Nelson Ridges, Chicago, IL, 60179","Delivery is for the gated community, gate code: 6789",
+1628,2179,2024-04-04,1,3,0,0,0,0,2,2,79.5,Cash,"0187 Kathleen Circles, Chicago, IL, 61816",,
+4543,2163,2024-04-05,0,0,0,0,0,1,0,0,6.5,Credit Card,"8426 Mccarthy Knolls Suite 321, Chicago, IL, 60722",Delivery is for the apartment on the left,
+2628,2166,2024-04-05,3,0,0,0,0,0,0,4,62.5,Credit Card,"2159 Curtis Port, Chicago, IL, 60620",,
+7959,2217,2024-04-05,0,4,0,0,0,2,2,1,87.75,PayPal,"4390 Amanda Mount, Chicago, IL, 61142",Special instructions: extra BBQ seasoning,"extra hot sauce, please"
+2008,2161,2024-04-05,3,0,4,3,0,0,0,0,136.35,PayPal,"7104 Mitchell Lights, Chicago, IL, 62739",Please leave the order in the shade,"no cheese, please"
+6920,2207,2024-04-05,2,2,3,0,2,0,2,4,147.3,Cash,"0410 Reid Drive Apt. 468, Chicago, IL, 61293","Call upon arrival for gate access, gate code: 1234",
+7099,2168,2024-04-07,0,0,0,2,0,2,0,0,37.3,Credit Card,"7741 Curtis Junctions Suite 728, Chicago, IL, 60095",Please deliver to the building entrance,
+4656,2214,2024-04-08,0,0,0,0,3,3,0,0,34.5,PayPal,"797 Charles Views Suite 731, Chicago, IL, 60917","Text upon arrival, thank you!Delivery is for the gated community",
+7901,2206,2024-04-08,0,0,0,4,3,0,0,0,63.6,PayPal,"044 Brown Loaf, Chicago, IL, 62414",Delivery is for the fourth-floor apartment,thanks!
+2529,2173,2024-04-08,0,0,3,4,2,0,0,1,111.65,Cash,"372 Mccormick Isle Apt. 676, Chicago, IL, 60348",Drop off the order at the lobby,None
+2196,2178,2024-04-09,2,0,1,0,4,2,0,0,73.6,Cash,"058 Mueller Coves, Chicago, IL, 62295",,
+7005,2215,2024-04-10,0,0,1,0,3,3,0,3,68.85,PayPal,"718 Aaron Crossroad, Chicago, IL, 60953","Delivery is for the office reception, thank you!","No salt, dietary restrictions"
+8987,2192,2024-04-10,0,1,0,2,0,0,0,4,63.3,PayPal,"684 Heather Cape, Chicago, IL, 61882",,"No pepper, dietary restrictions"
+9628,2164,2024-04-10,2,0,0,3,0,0,2,0,73.95,PayPal,"79244 Dustin Place, Chicago, IL, 61513",Delivery is for the suite on the left,
+2518,2211,2024-04-12,0,0,0,0,0,0,2,0,12.5,PayPal,"58153 Green Port, Chicago, IL, 60828","Leave the order at the front door, thank you!",
+6285,2208,2024-04-12,0,0,4,0,2,0,0,4,97.4,Credit Card,"0688 Jennifer Causeway Suite 792, Chicago, IL, 62640",,"extra napkins, please"
+3302,2193,2024-04-12,0,0,4,0,3,0,4,2,114.9,PayPal,"0455 Sanchez Inlet Apt. 520, Chicago, IL, 61374",Please deliver to the building lobby,
+4222,2169,2024-04-13,0,1,2,0,2,4,0,0,81.2,Credit Card,"80841 Stone Expressway Suite 388, Chicago, IL, 62060",,extra BBQ sauce
+9311,2182,2024-04-13,3,0,3,0,0,0,3,0,103.05,PayPal,"25242 Robinson Court Suite 723, Chicago, IL, 60662","Call upon arrival, gate code: 2345",
+6171,2244,2024-04-14,0,4,0,1,0,0,3,0,86.9,Cash,"265 Edward Stream Apt. 080, Chicago, IL, 62736",Please leave the order in the mailbox,
+6337,2199,2024-04-16,0,0,0,4,4,0,0,0,68.6,Cash,"3337 Bruce Club, Chicago, IL, 61963","Ring the bell twice, please",
+6764,2251,2024-04-16,4,4,0,0,3,0,0,0,121,Credit Card,"94983 Watson Flat Apt. 624, Chicago, IL, 62784",Leave the order in the backyard shed,
+6566,2253,2024-04-16,0,4,0,1,0,0,0,3,86.9,PayPal,"255 Scott Fall Apt. 484, Chicago, IL, 61271","Delivery is for the gated community, gate code: 1234",
+2656,2233,2024-04-16,0,0,0,0,3,0,2,3,46.25,Cash,"73233 Juan Prairie Apt. 516, Chicago, IL, 61031","Place order on the doorstep, no need to knock",
+3587,2228,2024-04-16,2,0,0,3,0,0,2,4,98.95,PayPal,"4091 Margaret Coves Suite 764, Chicago, IL, 61762","Ring the bell softly, baby sleeping",
+9958,2176,2024-04-16,0,2,3,0,0,0,0,0,74.8,Cash,"395 Stephens Village Apt. 057, Chicago, IL, 62714",Delivery is for the basement apartment,Thank you :)
+1664,2204,2024-04-17,0,0,0,0,4,0,0,3,38.75,Credit Card,"537 Long Estate, Chicago, IL, 60015",,
+4020,2242,2024-04-19,2,3,0,1,0,0,0,0,79.15,PayPal,"5096 Rebecca River, Chicago, IL, 62819","Gate code: 3456, please ring upon arrival",
+8489,2239,2024-04-19,0,3,3,0,0,3,0,3,127.05,Cash,"6053 Luna Ford Apt. 626, Chicago, IL, 60466",Please deliver to the rear entrance,
+2843,2219,2024-04-19,0,0,0,0,3,0,0,0,15,PayPal,"76143 Buckley Forks, Chicago, IL, 62020",Leave the order on the porch swing,
+4732,2252,2024-04-20,4,3,0,0,4,1,4,3,162.25,PayPal,"41805 Peters Prairie Apt. 486, Chicago, IL, 61522",,
+5905,2154,2024-04-20,0,0,0,4,0,2,0,0,61.6,Credit Card,"0181 Aguilar Parkways, Chicago, IL, 60880","Do not disturb, working from home",
+9720,2170,2024-04-20,0,1,0,1,2,0,0,1,42.4,Credit Card,"336 James Park, Chicago, IL, 61457",Delivery is for the ground floor unit,extra ketchup
+1576,2180,2024-04-20,0,4,2,3,3,0,0,3,157.4,Cash,"478 Romero Gateway, Chicago, IL, 62864",Leave the order at the front porch,
+7451,2162,2024-04-21,0,0,0,0,2,0,3,0,28.75,Credit Card,"2917 Jeffery Heights Apt. 366, Chicago, IL, 62034",Delivery is for the fifth-floor apartment,
+2986,2230,2024-04-22,0,2,3,0,3,3,1,0,115.55,PayPal,"362 Ricky Run, Chicago, IL, 60139",Leave the order under the carport,
+3090,2194,2024-04-23,0,4,0,0,0,3,3,0,94.25,PayPal,"8338 Christopher Viaduct Apt. 269, Chicago, IL, 60171",,More napkins please!
+7509,2195,2024-04-24,2,0,0,1,1,0,0,0,42.15,Credit Card,"3198 Diane Stravenue Suite 572, Chicago, IL, 61164","Call upon arrival, gate code: 6789",
+603,2246,2024-04-24,0,0,3,2,0,2,3,0,102.85,Cash,"8720 Christine Overpass Suite 379, Chicago, IL, 61878","Delivery is for the condo unit, thank you!",
+3072,2223,2024-04-25,0,0,2,0,3,0,0,3,64.95,Credit Card,"67511 Mark Ferry, Chicago, IL, 62673",Please leave the order at the gate,
+9878,2232,2024-04-26,0,0,0,0,4,0,0,0,20,PayPal,"814 Ramirez Grove, Chicago, IL, 61528",Please leave the order on the front porch,Extra ketchup packets
+6833,2222,2024-04-26,2,3,4,3,0,0,2,3,197.1,Credit Card,"260 Andrew Ranch, Chicago, IL, 60582",Gate code provided upon request,
+8711,2189,2024-04-27,3,4,0,0,0,3,4,4,163,PayPal,"5040 Andrew Parkways, Chicago, IL, 62258","Call upon arrival, gate code: 9876",
+9358,2231,2024-04-29,0,0,2,0,0,3,4,0,75.7,PayPal,"61149 Jared Manor Suite 723, Chicago, IL, 60545",Place order on the patio table,extra napkins
+8074,2201,2024-04-29,2,3,1,0,2,0,0,0,92.6,Credit Card,"1374 Marshall Mountain Apt. 834, Chicago, IL, 60352","Ring the bell and wait, thank you!",
+6591,2158,2024-04-30,3,0,0,0,2,0,0,2,60,Cash,"7975 Wright Falls Apt. 194, Chicago, IL, 62152",Place the order in the designated cooler,
+1550,2159,2024-04-30,0,2,0,0,2,0,2,0,50.5,Cash,"749 David Manor Apt. 527, Chicago, IL, 61728",Dial apartment number for access,"condiments in individual packets, thank you!"
+3545,2186,2024-04-30,3,0,0,0,3,0,0,0,52.5,Cash,"40261 Mays Roads Apt. 419, Chicago, IL, 60911","Gate code required, please call ahead",
+7057,2238,2024-04-30,0,0,4,0,0,0,2,0,74.9,Credit Card,"68281 Raymond Groves Suite 446, Chicago, IL, 60211",,
+3974,2181,2024-05-02,0,1,0,0,4,0,0,0,34,PayPal,"372 Martinez Mills Suite 136, Chicago, IL, 60300",Delivery is for the office suite 102,Additional Napkins
+1613,2167,2024-05-03,0,2,0,0,1,0,0,3,51.75,Cash,"013 Hernandez Glen Suite 957, Chicago, IL, 60504",Special instructions: extra hot peppers,
+4422,2226,2024-05-03,4,4,0,0,0,0,3,3,143.5,Credit Card,"55706 Lisa Trafficway Suite 060, Chicago, IL, 61901","Gate access needed, call upon arrival",
+3561,2175,2024-05-03,0,3,1,4,0,0,3,3,143.7,Credit Card,"01826 Margaret Forest, Chicago, IL, 60115",Delivery is for the ground floor unit,no plastic utensils
+9379,2157,2024-05-04,0,0,0,0,3,0,0,4,40,Credit Card,"99351 Anne River, Chicago, IL, 60844",Delivery is for the suite on the right,
+3353,2210,2024-05-04,3,4,0,3,0,0,3,0,148.7,Cash,"22138 Pierce Mission Suite 762, Chicago, IL, 62244",Leave the order at the garage door,
+4400,2225,2024-05-04,0,0,2,0,1,0,0,2,48.7,Cash,"5461 Janet Flat, Chicago, IL, 61527",,extra garlic
+8367,2203,2024-05-05,0,0,0,4,0,0,3,0,67.35,Cash,"845 Carrie Roads, Chicago, IL, 62084",Please leave the order with the concierge,
+1920,2216,2024-05-05,0,0,2,0,4,2,0,0,64.2,Credit Card,"424 Hale Creek, Chicago, IL, 60408",,
+1391,2156,2024-05-06,0,0,0,0,0,0,4,0,25,Credit Card,"08246 Amber Ports, Chicago, IL, 61264",,Could I please have extra napkins?
+3678,2177,2024-05-06,0,0,0,0,2,0,0,0,10,PayPal,"282 Monique Trail Apt. 902, Chicago, IL, 60706","Delivery is for the back entrance, thank you!",
+1568,2165,2024-05-07,0,2,0,0,3,4,2,0,81.5,Cash,"89078 Sanders Lock Apt. 760, Chicago, IL, 60781",Delivery is for the apartment upstairs,
+6172,2198,2024-05-08,3,1,0,3,3,3,2,4,159.95,Cash,"4071 Donna Circles, Chicago, IL, 61941","Delivery is for the rear entrance, thank you!Call upon arrival, apartment number 201",
+2262,2248,2024-05-09,3,0,0,0,4,1,2,3,95.25,PayPal,"581 Karen Lane, Chicago, IL, 62674","Delivery is for the gated community, gate code: 4567",
+9988,2197,2024-05-11,0,0,4,0,3,0,0,3,96.15,PayPal,"00251 Houston Point, Chicago, IL, 60208",,
+5309,2213,2024-05-12,3,4,2,0,0,0,0,4,149.7,Credit Card,"43667 Finley Vista, Chicago, IL, 60090",Gate code available upon request,
+4007,2250,2024-05-12,0,4,0,0,0,0,1,3,81,Cash,"59425 Stein Motorway, Chicago, IL, 60589",Please leave the order in the garage,
+5519,2188,2024-05-13,0,0,4,2,3,3,2,3,152.45,Cash,"40234 Schmidt Ford, Chicago, IL, 61188",Delivery is for the second-floor apartment,Please send napkins
+5746,2183,2024-05-13,4,0,3,2,0,0,1,4,152.35,PayPal,"6355 Jennifer Brook Suite 877, Chicago, IL, 62881",Please ring the doorbell twice upon arrival,
+1871,2196,2024-05-14,0,0,2,4,2,3,0,2,121.8,Cash,"86828 Margaret Prairie, Chicago, IL, 62914",Please ring the bell and wait,
+1799,2191,2024-05-14,3,0,0,3,0,0,0,3,92.7,Credit Card,"5020 Colleen Glens, Chicago, IL, 61765","Delivery is for the gated community, gate code is 6234",
+5654,2174,2024-05-14,4,4,0,4,0,2,0,0,167.6,Cash,"02972 Sandoval Keys, Chicago, IL, 60639","Gate code required for entry, the number is 7854",
+5344,2171,2024-05-14,0,1,4,0,0,0,4,3,120.15,PayPal,"7439 West Stream, Chicago, IL, 61432","Knock softly, baby sleeping inside","Can you add extra paper napkins, please?"""
+7404,2221,2024-05-16,0,0,0,0,2,3,0,0,29.5,PayPal,"73441 Bishop Fork, Chicago, IL, 61987","Delivery is for the penthouse, thank you!",
+5219,2229,2024-05-19,0,2,3,0,0,4,0,0,100.8,Credit Card,"2042 Mark Island, Chicago, IL, 61888",,
+3259,2243,2024-05-20,0,0,0,1,0,1,2,0,31.15,Credit Card,"396 Maria Falls, Chicago, IL, 62316","No contact delivery, leave at the door",
+7160,2240,2024-05-20,0,3,0,0,4,0,2,0,74.5,Credit Card,"572 Alexis Plaza Apt. 619, Chicago, IL, 62549",,
+3078,2247,2024-05-21,0,0,0,0,0,4,3,0,44.75,Cash,"1125 Diaz Unions Suite 880, Chicago, IL, 60167",Delivery is for the apartment on the right,
+1484,2235,2024-05-21,0,1,0,0,3,0,3,1,54,PayPal,"43103 Sarah Landing Apt. 794, Chicago, IL, 62723",Please deliver to the service entrance,"No onions, allergic reaction"
+1461,2245,2024-05-21,2,0,4,2,3,4,1,4,183.95,Credit Card,"9784 Parker Gateway, Chicago, IL, 61744","Use the back entrance, thank you!",extra pickles
+8164,2209,2024-05-23,0,0,0,0,2,3,0,2,42,PayPal,"82276 Campbell Glens Suite 634, Chicago, IL, 61980",Drop off the order at the building entrance,
+1565,2212,2024-05-24,3,0,0,0,0,0,3,0,56.25,Credit Card,"6836 Morgan Circle Suite 495, Chicago, IL, 60516",Delivery is for the third-floor suite,"No garlic, allergic to garlic"
+8737,2200,2024-05-25,0,4,0,1,1,0,0,0,73.15,Cash,"93192 King Summit Suite 992, Chicago, IL, 60052",Delivery is for the apartment downstairs,
+3722,2241,2024-05-26,0,0,0,3,3,0,2,2,76.45,Credit Card,"54282 Daniel Overpass, Chicago, IL, 60809",,Please send mustard packets
+2133,2202,2024-05-27,0,0,1,0,0,0,0,0,15.6,PayPal,"7187 Hughes Fords, Chicago, IL, 60306",,
+3487,2224,2024-05-27,0,1,0,0,4,4,0,0,60,Credit Card,"46557 Daniel Common Suite 156, Chicago, IL, 60507",Leave the order with the neighbor,
+5672,2205,2024-05-27,3,0,4,0,4,2,2,3,164.15,Cash,"4265 Stewart Ville Suite 055, Chicago, IL, 61632","Apartment number is 205, buzz for entry",
+9763,2236,2024-05-27,0,0,0,0,1,0,0,0,5,PayPal,"995 Benjamin Junctions, Chicago, IL, 60580","Gate code: 7890, call upon arrival",
+2963,2172,2024-05-28,0,4,0,2,2,2,0,3,122.05,Cash,"31373 Harris Road Apt. 751, Chicago, IL, 62706",Please leave the order on the counter,extra cheese
+1017,2249,2024-05-28,0,1,3,0,3,0,0,0,75.8,Credit Card,"19132 Roberts Valleys, Chicago, IL, 60677",,
+9602,2218,2024-05-28,0,0,0,4,3,0,0,0,63.6,PayPal,"8383 Susan Squares, Chicago, IL, 62661",,
+7953,2190,2024-05-29,0,0,2,0,3,0,0,0,46.2,PayPal,"71678 Waller Inlet Apt. 353, Chicago, IL, 62895","Do not use the doorbell, baby napping",Napkins
+9045,2234,2024-05-30,0,0,0,3,0,2,1,0,55.7,Cash,"170 Adam Viaduct, Chicago, IL, 60947","Do not knock, baby sleeping",
