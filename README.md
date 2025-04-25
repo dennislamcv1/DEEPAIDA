@@ -1,5 +1,5 @@
 # DeepAIDA
-## DeepLearning.AI Data Analytics Professional Certificate
+## DeepLearning.AI Data Analytics Professional Certificate (5 course series)
 
 Learn in-demand analytics skills that can transform your career.  Data-informed decision-making is now an essential skill for everyone, from everyday consumer choices to business decisions at all levels. As reliance on data grows, so does the need for professionals who can analyze and interpret it effectively. The Data Analytics Professional Certificate, led by industry leader Sean Barnes, equips you with the skills to manage the entire data lifecycle, from defining problems to delivering insights.
 
